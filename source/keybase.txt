@@ -1,0 +1,73 @@
+==================================================================
+https://keybase.io/cryptoadl
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://cryptoadl.org
+  * I am cryptoadl (https://keybase.io/cryptoadl) on keybase.
+  * I have a public key with fingerprint 9C35 78F7 124D 88D4 8489  5731 18ED 66A3 4969 AF80
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "fingerprint": "9c3578f7124d88d48489573118ed66a34969af80",
+            "host": "keybase.io",
+            "key_id": "18ed66a34969af80",
+            "kid": "01016da6301ae7a9626718860f633fa19e53f9fbaf926155659845223643520e36320a",
+            "uid": "4c95a90ffd23428196c42074d6d69f19",
+            "username": "cryptoadl"
+        },
+        "service": {
+            "hostname": "cryptoadl.org",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1432478534,
+    "expire_in": 157680000,
+    "prev": "833d11b30f87169f1cb987132135e5c3e8378b0a4fbf7a72ec585e04b5c53d3a",
+    "seqno": 4,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: GnuPG v1
+
+owFtkn9QVFUUxxeW2tyGXAjDmXSEZ7BCiO+9++77sRiYloMZgaKZAgPvx33LE9i3
+7S5LKCAjYmK0gYiVwIQSDBQMlTGiWTmIjUZGwUBMliQ0BEpDv0ibIHqPqX+a7j/3
+3nO+38+Zc+ZUBRoN/n7Lf5SbtiidpX59U4JhJz+evB8TVKkQs+3HctDiJSsOO3I5
+XYrDg9kwTgSQYWWGICmJZSWKpVgOMoAgWCTRNA8ojuZ4mcWxGCxbdesODSPwbhSr
+qFpM+2Qqkhb9H33OYgIncIKWeBrgBI8YnqNJmiFYlsZlGgCZJzgEgczJAi9zJE1A
+SEOOpSBJApoCkMQRoAGJ8xoufxFHiRzkOVyWJRJQJEtwtEiROENJtERzMsHpQjdy
+Ofg8pKlFV6HTo/JSLlYcg2lhryIifQZ6K/+VxKouu+Z2ulSPKqq5Wirb43G6bbrV
+U+jUtQVIyPyHkikoDkmbpObwIpdbUR2YjdCUokfRsQQFSIphIaBiMPSCU3GhTEVX
+QIZmce3odZBXQ7IASAQhAFxmGULvQBQ47QVIAkAERYBYwLACzlOyIDM8QyIRshDh
+lABFCCSgD8aNnneomE2r5OHtGtKt2B28J98VgLBic4X/igCDn7/h3nv89W0wmJdY
+/l2R+ailC96uwthHwjK8d83tDy/bXMv2JL26911rWXkdU1tYFFr5y0h4cIK8NnRk
+rrR5qGnXkj/t6tHR1t9I2DLdajlJ7Ym/6/Y9+1eoaeNX9c3qsfrzuYctvre+vD95
+49fH3rD4al8c3vTeevpQT6XJ5xdGzsCMb/svOSceGBDKFmaHzll3f8/NNtxMr9px
+fKojblBcUZR6ZDIiZdvkhZKiuq4iS2b9PlTauKrpPktSGB4wEdd+6OIn/bbhS3Fz
+MAYfWFYr9Y8yneVz81ddW5vINjyk6vdgWbRsgh3eqYq8Pcv3nomeCBC/aLlzIzIl
+8efegtNS7Y7sysvV0+FPtJne3r314OqYnZdVx4cf9NqfNFZ3NF1ddbJz7YU+a9tY
+EJqZuLG9PDgowJg27EwyHi97ZezAa5+bTxHppxOtCeGpr7+fQ2wv9dHB0d01iZGP
+N3gPmq9bQ0bD1t9a93HrGbilP9H0A1MauiGrbaTi1OEr118KGQk0X1ndbujG3kxq
+71qT8FDUHxsyfg0fes7Q2NMcLj/Wd96U4MQiXy4NyTpy+4QalTfwnXF27DPT+O2S
+oIKjP6VtK+mN3xXkC0xJm7L2+9ad6wrqTo3/JqRmpXEwb14Gm5PrJjrbqnNbHrx1
+9qOsfZH543fMa66NmgcjnvY03nzm2sUTk8krIywNNU+lTh+ITp9BZ5cuTBdnP/rp
+O38D
+=PE6c
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/cryptoadl
+
+==================================================================
+
