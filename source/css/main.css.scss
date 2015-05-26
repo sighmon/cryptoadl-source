@@ -121,6 +121,7 @@ a:hover {
     color: white;
     background-color: $green;
     padding: 1.5em 0 1.5em 0;
+    text-align: center;
 }
 
 .header p, .header p .fa {
@@ -133,6 +134,10 @@ a:hover {
 
 .header p .fa:hover {
     color: white;
+}
+
+.header img {
+    margin-bottom: 1em;
 }
 
 nav {
@@ -151,7 +156,7 @@ nav {
 
 .home h1 {
     font-family: monospace;
-    font-size: 3.5em;
+    font-size: 3em;
     font-weight: normal;
     line-height: 1em;
 }
@@ -166,6 +171,21 @@ h3 {
     color: rgb(92, 92, 92);
 }
 
+h4, h5 {
+    font-size: 1em;
+    margin: 0.5em 0 0 0;
+    padding: 0;
+}
+
+h4 {
+    font-size: 1.2em;
+}
+
+h5 {
+    font-weight: normal;
+    text-transform: uppercase;
+}
+
 .home .fa {
     font-size: 2em;
     margin-right: 0.3em;
@@ -173,6 +193,63 @@ h3 {
 
 .home .fa-key {
     font-size: 1em;
+}
+
+.schedule {
+    list-style-type: none;
+    padding-left: 1em;
+}
+
+.posters, .speakers, .sponsors {
+    text-align: center;
+}
+
+.posters img {
+    max-width: 30%;
+    border-radius: 2px;
+    // border: 1px solid rgba(0, 0, 0, 0.1);
+}
+
+.posters img:hover {
+    box-shadow: 0px 1px 3px rgba(0, 0, 0, 0.25);
+    margin-top: -2px;
+}
+
+.posters a + a {
+    margin-left: 1em;
+}
+
+.sponsors img {
+    max-width: 20%;
+}
+
+.sponsors a + a {
+    margin-left: 3em;
+}
+
+.speaker {
+    display: inline-block;
+    max-width: 29%;
+    vertical-align: top;
+}
+
+.speakers .speaker + .speaker {
+    margin-left: 2em;
+}
+
+.speaker img {
+    max-width: 80%;
+    border-radius: 50%;
+    margin-bottom: 1em;
+    border: 3px solid white;
+}
+
+.speaker img:hover {
+    border: 3px solid $green;
+}
+
+.speaker p {
+    text-align: left;
 }
 
 button {
@@ -200,9 +277,45 @@ footer {
     text-align: center;
 }
 
+.home footer .fa-key {
+    font-size: 2em;
+}
 
+@media only screen and (max-width: 640px) {
+    /* Style adjustments for viewports that meet the condition */
+    .schedule {
+        padding-left: 0;
+    }
 
+    .speaker {
+        max-width: 100%;
+    }
 
+    .speaker img {
+        max-width: 50%;
+    }
+
+    .speakers .speaker + .speaker {
+        margin-left: 0;
+    }
+
+    button {
+        width: 100%;
+    }
+
+    .posters img {
+        max-width: 70%;
+        margin-top: 1em;
+    }
+
+    .posters img:hover {
+        margin-top: 1em;
+    }
+
+    .posters a + a {
+        margin-left: 0;
+    }
+}
 
 
 
