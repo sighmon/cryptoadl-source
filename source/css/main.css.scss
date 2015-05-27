@@ -269,6 +269,10 @@ button:hover {
     transition: all 0.15s linear;
 }
 
+.book-ticket {
+    margin-left: 1em;
+}
+
 ul {
     line-height: 1.7em;
 }
@@ -312,8 +316,13 @@ footer {
         margin-top: 1em;
     }
 
-    .posters a + a {
+    .posters a + a, .sponsors a + a {
         margin-left: 0;
+    }
+
+    .sponsors img {
+        max-width: 50%;
+        margin-top: 3em;
     }
 }
 
