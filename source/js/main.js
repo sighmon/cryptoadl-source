@@ -42,7 +42,7 @@ $( document ).ready(function() {
 		}
 
 		// Text to scramble
-		scramble('h1', 100, 70);
-		scramble('h2', 180, 70);
-		scramble('h3', 260, 70);
+		scramble('h1', 170, 50);
+		scramble('h2', 250, 50);
+		scramble('h3', 330, 50);
 });
