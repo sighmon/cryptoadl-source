@@ -4,7 +4,7 @@ source 'https://rubygems.org'
 
 gem "middleman"#, "~>4.3.7"
 gem "kramdown"#, ">= 2.3.0"
-gem "activesupport", "~>5.2.4.3"
+gem "activesupport", "~>6.1.7.1"
 
 # Live-reloading plugin
 gem "middleman-livereload"#, "~> 3.1.0"
